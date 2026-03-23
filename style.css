@@ -100,3 +100,17 @@ main {
    font-size: 14px;
    color: #777;
 }
+.social {
+   display: flex;
+   justify-content: space-between;
+   margin-top: 10px;
+   font-size: 14px;
+}
+
+.heart::before {
+   content: "❤️ ";
+}
+
+.comment::before {
+   content: "💬 ";
+}
