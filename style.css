@@ -64,3 +64,9 @@ header a {
    border-radius: 5px;
    font-weight: 600;
 }
+main {
+   display: flex;
+   justify-content: center;
+   gap: 20px;
+   padding: 40px;
+}
